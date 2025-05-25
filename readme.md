@@ -5,7 +5,7 @@ Este projeto é uma automação construída no N8N que permite receber perguntas
 ## 💡 Funcionalidades
 
 - **Webhook de Entrada (WhatsApp)**: A automação é iniciada por uma mensagem recebida via Webhook integrado ao meu sistema Whaticket.
-- **Formatação e Buffer**: A mensagem é normalizada e armazenada temporariamente em Redis para controle de fluxo e prevenção de respostas em cascata.
+- **Formatação e Buffer**: A mensagem é normalizada e armazenada temporariamente em Redis para controle de fluxo e prevenção de mensagens em cascata.
 - **Consulta ao Estoque**: Se a mensagem se tratar de uma solicitação de relatório, a automação acessa uma planilha no Google Sheets para consultar os dados.
 - **Assistente de IA**: Para perguntas em linguagem natural, a mensagem é enviada a um agente de IA (OpenAI) que responde com base no contexto.
 - **Histórico com Memória**: Utiliza integração com banco de dados PostgreSQL para manter a memória da conversa, fornecendo respostas mais coerentes em interações contínuas.
