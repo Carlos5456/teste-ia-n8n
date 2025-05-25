@@ -24,10 +24,22 @@ Este projeto é uma automação construída no N8N que permite receber perguntas
 ## 📷 Fotos do projeto
 
 ![fluxo](fluxo.png)
-![conversa](conversa.png)
 ![estoque](estoque.png)
 ![log-att](log-att.png)
+
+## 📷 Exemplos de execução bem sucedidas
+
+![conversa](conversa.png)
 ![e-mail](e-mail.png)
+
+## 🔴 Demonstração com buffer de mensagem
+
+![conversa2](conversa2.png)
+![buffer-fluxo](buffer-fluxo.png)
+![buffer-n8n](buffer-n8n.png)
+![e-mail2](e-mail2.png)
+
+
 
 ## ⚠️ Considerações
 
