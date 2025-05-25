@@ -26,7 +26,7 @@ Este projeto é uma automação construída no N8N que permite receber perguntas
 ![fluxo](fluxo.png)
 ![conversa](conversa.png)
 ![estoque](estoque.png)
-
+![log-att](log.png)
 ![e-mail](e-mail.png)
 
 ## ⚠️ Considerações
